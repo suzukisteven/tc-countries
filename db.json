@@ -1,24 +1,17 @@
 {
-  "country": "Cambodia",
-  "imgUrl": "test"
-},
-{
-  "country": "Malaysia",
-  "imgUrl": "test" 
-},
-{
-  "country": "U.S.A.",
-  "imgUrl": "test"
-},
-{
-  "country": "Australia",
-  "imgUrl": "test" 
-},
-{
-  "country": "Belgium",
-  "imgUrl": "test" 
-},
-{
-  "country": "Bhutan",
-  "imgUrl": "test"
-},
+  "countries": [
+    {
+      "id": 1,
+      "name": "Cambodia"
+    },
+    {
+      "id": 2,
+      "name": "Malaysia"
+    },
+    {
+      "id": 3,
+      "name": "U.S.A."
+    },
+
+  ]
+}
