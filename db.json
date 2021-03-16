@@ -1,17 +1,11 @@
 {
-  "countries": [
+  "posts": [
     {
       "id": 1,
-      "name": "Cambodia"
-    },
-    {
-      "id": 2,
-      "name": "Malaysia"
-    },
-    {
-      "id": 3,
-      "name": "U.S.A."
-    },
-
-  ]
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
