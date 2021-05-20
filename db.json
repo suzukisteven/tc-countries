@@ -184,7 +184,7 @@
   "advertisements": [
     {
         "sourceUrl": "/assets/static/static/images/advertise.jpg?width=300&key=2300bce",
-        'path': '/work-with-me'
+        "path": "/work-with-me"
     },
     {
         "sourceUrl": "/assets/static/static/images/airbnb.png?width=300&key=202c63a",
