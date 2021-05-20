@@ -181,7 +181,18 @@
       "path": "/vietnam"
     }
   ],
-  "profile": {
-    "name": "tc-test"
-  }
+  "advertisements": [
+    {
+        'sourceUrl': '/assets/static/static/images/advertise.jpg?width=300&key=2300bce',
+        'path': '/work-with-me'
+    },
+    {
+        'sourceUrl': '/assets/static/static/images/airbnb.png?width=300&key=202c63a',
+        'path': 'https://www.airbnb.com/c/yjamil?currency=USD'
+    },
+    {
+        'sourceUrl': '/assets/static/static/images/tokyo-treats.png?width=300&key=b0903b1',
+        'path': 'https://tokyotreat.com/?rfsn=1561599.27346'
+    }
+  ]
 }
